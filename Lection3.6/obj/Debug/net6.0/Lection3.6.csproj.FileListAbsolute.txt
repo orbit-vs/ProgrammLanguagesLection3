@@ -1,0 +1,15 @@
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection3/Lection3.6/bin/Debug/net6.0/Lection3.6
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection3/Lection3.6/bin/Debug/net6.0/Lection3.6.deps.json
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection3/Lection3.6/bin/Debug/net6.0/Lection3.6.runtimeconfig.json
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection3/Lection3.6/bin/Debug/net6.0/Lection3.6.dll
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection3/Lection3.6/bin/Debug/net6.0/Lection3.6.pdb
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection3/Lection3.6/obj/Debug/net6.0/Lection3.6.csproj.AssemblyReference.cache
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection3/Lection3.6/obj/Debug/net6.0/Lection3.6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection3/Lection3.6/obj/Debug/net6.0/Lection3.6.AssemblyInfoInputs.cache
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection3/Lection3.6/obj/Debug/net6.0/Lection3.6.AssemblyInfo.cs
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection3/Lection3.6/obj/Debug/net6.0/Lection3.6.csproj.CoreCompileInputs.cache
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection3/Lection3.6/obj/Debug/net6.0/Lection3.6.dll
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection3/Lection3.6/obj/Debug/net6.0/refint/Lection3.6.dll
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection3/Lection3.6/obj/Debug/net6.0/Lection3.6.pdb
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection3/Lection3.6/obj/Debug/net6.0/Lection3.6.genruntimeconfig.cache
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection3/Lection3.6/obj/Debug/net6.0/ref/Lection3.6.dll
